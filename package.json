@@ -1,0 +1,42 @@
+{
+  "name": "template-web",
+  "version": "0.9.0",
+  "description": "template-web",
+  "main": "src/server/index.js",
+  "scripts": {
+    "develop": "parcel watch src/client/index.html",
+    "live": "parcel src/client/index.html",
+    "build": "parcel build src/client/index.html",
+    "start": "node starter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:myTerminal/template-web-parcel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myTerminal/template-web-parcel/issues"
+  },
+  "homepage": "https://github.com/myTerminal/template-web-parcel#readme",
+  "keywords": [
+    "template"
+  ],
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "bootstrap": "3.3.7",
+    "express": "4.15.4",
+    "font-awesome": "4.7.0",
+    "jquery": "3.2.1",
+    "react": "15.6.2",
+    "react-dom": "15.6.2",
+    "react-router-dom": "4.2.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "1.6.0",
+    "babel-preset-react": "6.24.1",
+    "jscs": "3.0.7",
+    "jshint": "2.9.5",
+    "parcel-bundler": "1.4.1"
+  }
+}
