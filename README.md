@@ -32,7 +32,7 @@ A template to create web applications on Node.js with [Parcel.js](https://parcel
 
 #### Module bundler: Parcel
 
-All that is required is the [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) and it takes care of everything else implicitly.
+All you need is [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) and it takes care of almost everything implicitly.
 
 ##### A few other packages
 
