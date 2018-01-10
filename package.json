@@ -4,9 +4,10 @@
   "description": "template-web",
   "main": "src/server/index.js",
   "scripts": {
-    "develop": "parcel watch src/client/index.html",
-    "live": "parcel src/client/index.html",
-    "build": "parcel build src/client/index.html",
+    "develop": "parcel watch src/client/index.html -d public --public-url ./",
+    "live": "parcel src/client/index.html -d public --public-url ./",
+    "build": "parcel build src/client/index.html -d public --public-url ./",
+    "lint": "jshint src/server/* src/client/scripts/**/* && jscs src/server/* src/client/scripts/**/*",
     "start": "node starter.js"
   },
   "repository": {
@@ -37,6 +38,7 @@
     "babel-preset-react": "6.24.1",
     "jscs": "3.0.7",
     "jshint": "2.9.5",
+    "less": "2.7.3",
     "parcel-bundler": "1.4.1"
   }
 }
