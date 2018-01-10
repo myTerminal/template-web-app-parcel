@@ -54,3 +54,4 @@ All that is required is the [parcel-bundler](https://www.npmjs.com/package/parce
 
  - Find a way to generate source-maps
  - Find a way to copy favicon.ico and other data for the website
+ - Find a way to write and run tests
