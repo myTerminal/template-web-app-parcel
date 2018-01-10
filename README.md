@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 [![Gratipay](http://img.shields.io/gratipay/myTerminal.svg)](https://gratipay.com/myTerminal)  
 
-A template to create web applications on Node.js with Parcel.js as the bundler
+A template to create web applications on Node.js with [Parcel.js](https://parceljs.org) as the bundler
 
 ## Technologies
 
