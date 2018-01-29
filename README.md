@@ -7,7 +7,6 @@
 [![devDependency Status](https://david-dm.org/myTerminal/template-web-parcel/dev-status.svg)](https://david-dm.org/myTerminal/template-web-parcel#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/template-web-parcel/peer-status.svg)](https://david-dm.org/myTerminal/template-web-parcel#info=peerDependencies)  
 [![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
-[![Gratipay](http://img.shields.io/gratipay/myTerminal.svg)](https://gratipay.com/myTerminal)  
 
 A template to create web applications on Node.js with [Parcel.js](https://parceljs.org) as the bundler
 
