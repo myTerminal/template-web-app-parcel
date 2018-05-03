@@ -1,8 +1,6 @@
 # template-web-parcel
 
-[![Code Climate](https://codeclimate.com/github/myTerminal/template-web-parcel.png)](https://codeclimate.com/github/myTerminal/template-web-parcel)
-[![bitHound Overall Score](https://www.bithound.io/github/myTerminal/template-web-parcel/badges/score.svg)](https://www.bithound.io/github/myTerminal/template-web-parcel)
-[![bitHound Code](https://www.bithound.io/github/myTerminal/template-web-parcel/badges/code.svg)](https://www.bithound.io/github/myTerminal/template-web-parcel)  
+[![Code Climate](https://codeclimate.com/github/myTerminal/template-web-parcel.png)](https://codeclimate.com/github/myTerminal/template-web-parcel)  
 [![Dependency Status](https://david-dm.org/myTerminal/template-web-parcel.svg)](https://david-dm.org/myTerminal/template-web-parcel)
 [![devDependency Status](https://david-dm.org/myTerminal/template-web-parcel/dev-status.svg)](https://david-dm.org/myTerminal/template-web-parcel#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/template-web-parcel/peer-status.svg)](https://david-dm.org/myTerminal/template-web-parcel#info=peerDependencies)  
