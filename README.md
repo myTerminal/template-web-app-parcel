@@ -33,9 +33,9 @@ All you need is [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) a
 
 ##### A few other packages
 
- - [babel-preset-env](https://www.npmjs.com/package/babel-preset-env) to transpile ES2015 scripts to regular JavaScript and [bable-preset-react](https://www.npmjs.com/package/babel-preset-react) to transpile JSX files to regular JavaScript files that web-browsers can interpret but no [babel-core](https://www.npmjs.com/package/babel-core)!
+ - [babel-core](https://www.npmjs.com/package/babel-core), [babel-preset-env](https://www.npmjs.com/package/babel-preset-env) to transpile ES2015 scripts to regular JavaScript and [bable-preset-react](https://www.npmjs.com/package/babel-preset-react) to transpile JSX files to regular JavaScript files that web-browsers can interpret but no [babel-core](https://www.npmjs.com/package/babel-core)!
  - [less](https://www.npmjs.com/package/less) to help parcel-bundler with transpilation of Less CSS into regular CSS (if you do not include this, parcel-bundle automatically adds it)
- - [eslint](https://www.npmjs.com/package/eslint) for running ESLint to lint JavaScript files
+ - [eslint](https://www.npmjs.com/package/eslint) and [babel-eslint](https://www.npmjs.com/package/babel-eslint) for running ESLint to lint JavaScript files
  - [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb), [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import), [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) and [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) to support eslint
 
 ##### Commands
