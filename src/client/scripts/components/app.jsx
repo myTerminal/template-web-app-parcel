@@ -1,7 +1,7 @@
 import React from 'react';
 import {
-    Route,
-    NavLink
+    NavLink,
+    Route
 } from 'react-router-dom';
 
 import Banner from './banner.jsx';
@@ -9,22 +9,30 @@ import Home from '../pages/home.jsx';
 import About from '../pages/about.jsx';
 
 export default class App extends React.Component {
-
-    constructor () {
+    constructor() {
         super();
 
         this.state = {};
     }
 
-    render () {
+    render() {
         return (
             <div>
                 <Banner />
-                <span className='far fa-thumbs-up fa-lg'></span>
-                <NavLink to='/' exact activeClassName='active'>Home</NavLink>
-                <NavLink to='/about' activeClassName='active'>About</NavLink>
-                <Route path='/' exact component={Home} />
-                <Route path='/about' component={About} />
+                <div className="navigation">
+                    <NavLink to="/" exact className="navigation-button" activeClassName="active">
+                        (
+                        <span className="fas fa-home" />
+                        ) Home
+                    </NavLink>
+                    <NavLink to="/about" className="navigation-button" activeClassName="active">
+                        (
+                        <span className="fas fa-info" />
+                        ) About
+                    </NavLink>
+                </div>
+                <Route path="/" exact component={Home} />
+                <Route path="/about" component={About} />
             </div>
         );
     }
