@@ -40,8 +40,8 @@ All you need is [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) a
 
 ##### Commands
 
- - `npm run develop` to instruct parcel-bundler to build the website, keep watching for file changes within source and reload the web-browser on every change.
- - `npm run live` to instruct parcel-bundler to build the website, keep watching for file changes within source and reload the web-browser on every change.  
+ - `npm run develop` to instruct parcel-bundler to build the website, keep watching for file changes within the source and reload the web-browser on every change.
+ - `npm run live` to instruct parcel-bundler to build the website, keep watching for file changes within the source and reload the web-browser on every change.  
  In this mode, parcel-bundler also starts a web-server of its own.  
  Please note that Express is not the web-server in this mode and hence any web-services implemented in "src\server\index.js" will not work.
  - `npm run build` to instruct parcel-bundler to build the website and stop.  
