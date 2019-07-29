@@ -1,9 +1,5 @@
 # template-web-parcel
 
-[![Code Climate](https://codeclimate.com/github/myTerminal/template-web-parcel.png)](https://codeclimate.com/github/myTerminal/template-web-parcel)  
-[![Dependency Status](https://david-dm.org/myTerminal/template-web-parcel.svg)](https://david-dm.org/myTerminal/template-web-parcel)
-[![devDependency Status](https://david-dm.org/myTerminal/template-web-parcel/dev-status.svg)](https://david-dm.org/myTerminal/template-web-parcel#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/template-web-parcel/peer-status.svg)](https://david-dm.org/myTerminal/template-web-parcel#info=peerDependencies)  
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 A template to create web applications on Node.js with [Parcel.js](https://parceljs.org) as the bundler
