@@ -7,7 +7,7 @@ const path = require('path'),
     bodyParser = require('body-parser'),
     fs = require('fs');
 
-module.exports = function (url) {
+module.exports = url => {
     const app = express(),
         baseUrl = path.join(__dirname, '../../');
 
