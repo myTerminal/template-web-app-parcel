@@ -7,7 +7,7 @@
     "develop": "parcel watch src/client/index.html -d public --public-url ./",
     "live": "parcel src/client/index.html -d public --public-url ./",
     "build": "parcel build src/client/index.html -d public --public-url ./",
-    "lint": "eslint src/server src/client",
+    "lint": "eslint ./src/server/**/*.js ./src/client/scripts/**/*.jsx",
     "start": "node starter.js"
   },
   "repository": {
