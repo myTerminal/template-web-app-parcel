@@ -33,7 +33,7 @@ All you need is [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) a
  - [less](https://www.npmjs.com/package/less) to help parcel-bundler with transpilation of Less CSS into regular CSS (if you do not include this, parcel-bundle automatically adds it)
  - [effortless-css](https://www.npmjs.com/package/effortless-css) to provide Less CSS mixins
  - [eslint](https://www.npmjs.com/package/eslint) and [babel-eslint](https://www.npmjs.com/package/babel-eslint) for running ESLint to lint JavaScript files
- - [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb), [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import), [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) and [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) to support eslint
+ - [eslint-config-myterminal](https://www.npmjs.com/package/eslint-config-myterminal), [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb), [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import), [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) and [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) to support eslint
 
 ##### Commands
 
