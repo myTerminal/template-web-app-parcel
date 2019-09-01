@@ -1,7 +1,7 @@
 {
-  "name": "template-web",
+  "name": "template-web-app",
   "version": "0.9.0",
-  "description": "template-web",
+  "description": "template-web-app",
   "main": "src/server/index.js",
   "scripts": {
     "develop": "parcel watch src/client/index.html -d public --public-url ./",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:myTerminal/template-web-parcel.git"
+    "url": "git@github.com:myTerminal/template-web-app-parcel.git"
   },
   "bugs": {
-    "url": "https://github.com/myTerminal/template-web-parcel/issues"
+    "url": "https://github.com/myTerminal/template-web-app-parcel/issues"
   },
-  "homepage": "https://github.com/myTerminal/template-web-parcel#readme",
+  "homepage": "https://github.com/myTerminal/template-web-app-parcel#readme",
   "keywords": [
     "template"
   ],
